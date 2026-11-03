@@ -1,6 +1,5 @@
-# Vulnerable-Machine-Bluemoon
-Vulnerable Machine: Bluemoon Walkthrough
 # BlueMoon: 2021 – VulnHub
+Vulnerable Machine: Bluemoon Walkthrough
 
 ## 1. Overview
 BlueMoon: 2021 is a beginner-level vulnerable Linux virtual machine created by Kirthik and published on VulnHub. The objective is to perform penetration testing, identify vulnerabilities, gain initial access, escalate privileges, and obtain root access.
